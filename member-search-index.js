@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.Udm1","c":"PrimitiveTypes","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.Udm1","c":"PrimitiveTypes","l":"PrimitiveTypes()","u":"%3Cinit%3E()"}];updateSearchResults();
